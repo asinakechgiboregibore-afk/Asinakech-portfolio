@@ -1,0 +1,8 @@
+{
+  "name": "asinakech-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Asinakech Gibore's full-stack software engineering portfolio",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
